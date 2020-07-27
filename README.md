@@ -1,1 +1,1 @@
-# -6-5000-Healthcare-Management-System
+Healthcare-Management-System
